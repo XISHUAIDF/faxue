@@ -11,10 +11,14 @@
             "id": "8d75e2b58a7df0b0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "民法/概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概论"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "8d75e2b58a7df0b0",
   "lastOpenFiles": [
+    "民法/概论.md",
     "README.md",
     "未命名.md",
     "民法"
