@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-01-11.md",
+                "file": "日记/2026-01-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-11"
+              "title": "2026-01-18"
             }
           },
           {
             "id": "0263c6fd6935a500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-01-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-17"
+            }
+          },
+          {
+            "id": "c1962a3a5f3628e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-01-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-15"
+            }
+          },
+          {
+            "id": "3513b43aabd59b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "2025大事记"
-            }
-          },
-          {
-            "id": "c1962a3a5f3628e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "modal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "modal"
             }
           }
         ],
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"民法/\" ",
+                "query": "网络",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,10 +278,17 @@
   "active": "65f22b48b420823a",
   "lastOpenFiles": [
     "日记统计表.md",
-    "2025大事记.md",
-    "modal.md",
-    "日记/2026-01-11.md",
+    "日记/2026-01-18.md",
+    "日记/2026-01-17.md",
+    "日记/2026-01-16.md",
     "日记/2026-01-10.md",
+    "日记/2026-01-14.md",
+    "日记/2026-01-15.md",
+    "日记/2026-01-11.md",
+    "日记/2026-01-13.md",
+    "日记/2026-01-12.md",
+    "modal.md",
+    "2025大事记.md",
     "日记/2026-01-06.md",
     "日记/2026-01-09.md",
     "日记/2026-01-08.md",
@@ -282,13 +313,6 @@
     "错题/刑法总论.md",
     "民法/合同.md",
     "刑法/罗翔读书笔记.md",
-    "工具箱/Obsidian使用方法.md",
-    "司法学习/题库.md",
-    "刑法总论 ^123.md",
-    "刑法总论 ^core-idea-1.md",
-    "README.md",
-    "未命名 1.md",
-    "日记/1.md",
     "未命名.canvas"
   ]
 }
