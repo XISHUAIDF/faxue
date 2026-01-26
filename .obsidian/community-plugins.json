@@ -2,5 +2,9 @@
   "obsidian-git",
   "dataview",
   "obsidian-tracker",
-  "calendar"
+  "calendar",
+  "templater-obsidian",
+  "buttons",
+  "obsidian-timestamp-notes",
+  "convert-url-to-iframe"
 ]

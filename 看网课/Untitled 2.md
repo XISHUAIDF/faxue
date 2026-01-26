@@ -1,0 +1,31 @@
+---
+title: 2025年广东省考申论二作文_哔哩哔哩_bilibili
+description: >-
+  依旧午休忙里偷录, 视频播放量 132667、弹幕量 572、点赞数 4425、投硬币枚数 3763、收藏人数 3960、转发人数 1299, 视频作者
+  cocoweii, 作者简介 23年粤A
+  随缘记录，相关视频：广东省考申论连续两年80分经验分享，2025年广东省考申论一作文，申论系统课（全国通用）（适用2025年和2026年备考学生）——公考小马哥，【视频播客】对谈cocoweii|人生常回味，而我不回头（闲聊、考公趣事、一些经验），【小黑时政速学】月度+季度时政盘点（持续更新）公考小黑老师
+  政治理论「适用26年国省考、事业单位、事业编、社区、三支一扶、文职等」，8分钟写申论大作文，68.3分排第9，广东省考卷麻了，申论81分经验分享（无广），申论系统课（全国通用）——公考小马哥，判断推理《行测》系统课（全国通用）（适用2025年和2026年备考学生）——刘文超
+author: cocoweii
+source: >-
+  https://www.bilibili.com/video/BV1e9SrBwEaZ/?spm_id_from=333.1391.0.0&vd_source=df99a6dc57be801b413ef5ae62c9d4d3
+created: "2026-01-21"
+tags:
+  - hover-notes
+  - bilibili
+---
+
+![Captured Video screenshot](hover-notes-images/screenshot-01KFFD68HDFBEQCFM1ED00DCCJ.png)
+[00:02:45](https://www.bilibili.com/video/BV1e9SrBwEaZ/?spm_id_from=333.1391.0.0&vd_source=df99a6dc57be801b413ef5ae62c9d4d3)
+
+抓住关键词，直接出标题（找因果关系，筑牢xx，推动xx）
+
+![Captured Video screenshot](hover-notes-images/screenshot-01KFFDDR8CPSH455R1H9MAJPAC.png)
+[00:05:07](https://www.bilibili.com/video/BV1e9SrBwEaZ/?spm_id_from=333.1391.0.0&vd_source=df99a6dc57be801b413ef5ae62c9d4d3)
+
+劃分段落，前面出現過的題目可以去掉，然後找出4個分论点
+
+![Captured Video screenshot](hover-notes-images/screenshot-01KFFDNWMTT4V4ZNV9K5VQH4R3.png)
+[00:06:59](https://www.bilibili.com/video/BV1e9SrBwEaZ/?spm_id_from=333.1391.0.0&vd_source=df99a6dc57be801b413ef5ae62c9d4d3)
+
+有趣，题目定调产业与乡村振兴的**因果关系，所以前面就写产业与分论点的关系，后半部分讲对乡村振兴的作用**
+
