@@ -6,5 +6,8 @@
   "templater-obsidian",
   "buttons",
   "obsidian-timestamp-notes",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-image-toolkit",
+  "attachment-management",
+  "heatmap-calendar"
 ]

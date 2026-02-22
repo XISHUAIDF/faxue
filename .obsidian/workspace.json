@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e7090fb3654a236",
+        "id": "82558f4fcec178a4",
         "type": "tabs",
         "children": [
           {
-            "id": "82041f37eefe0cf7",
+            "id": "35f33dee02e9ae15",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-01-20.md",
+                "file": "日记统计表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -27,41 +28,18 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-file",
-              "title": "2026-01-20"
-            }
-          },
-          {
-            "id": "b25b4bd306bbff7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记统计表.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "日记统计表"
             }
           },
           {
-            "id": "6e260657806514f5",
+            "id": "f5cec51174e09b14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025大事记.md",
+                "file": "grok/刑法/侵犯知识产权罪.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025大事记"
+              "title": "侵犯知识产权罪"
             }
           },
           {
-            "id": "6db2e8f2cfc2f7fb",
+            "id": "161c069957c4a3f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "看网课/Untitled 2.md",
+                "file": "提示词.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "提示词"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "b8065f1417dbd14b",
@@ -192,36 +170,17 @@
             }
           },
           {
-            "id": "019dfd8dc8afce79",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "日记/2026-01-20.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "2026-01-20 的反向链接列表"
-            }
-          },
-          {
             "id": "bc9a2441c2aefbe9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2026-01-20.md",
+                "file": "grok/刑法/侵犯知识产权罪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-20 的出链列表"
+              "title": "侵犯知识产权罪 的出链列表"
             }
           },
           {
@@ -245,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记统计表.md",
+                "file": "grok/刑法/侵犯知识产权罪.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日记统计表 的大纲"
+              "title": "侵犯知识产权罪 的大纲"
             }
           }
         ],
@@ -259,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,51 +235,52 @@
   },
   "active": "65f22b48b420823a",
   "lastOpenFiles": [
-    "看网课/Untitled 2.md.crswap",
-    "日记/2026-01-25.md",
-    "看网课/Untitled 2.md",
-    "Pasted image 20260125231136.png",
-    "日记/2026-01-23.md",
-    "日记统计表.md",
-    "2025大事记.md",
+    "日记/2026-02-22.md",
+    "grok/刑法/侵犯知识产权罪.md",
+    "日记/2026-02-21.md",
+    "grok/民法/民事法律行为效力.md",
+    "grok/民法/意思表示.md",
+    "grok/刑法",
+    "grok/刑法/金融诈骗罪.md",
     "modal.md",
-    "未命名.md",
-    "日记/2026-01-21.md",
-    "日记/2026-01-24.md",
-    "日记/2026-01-22.md",
-    "日记/2026-01-20.md",
-    "obsidian-hub-main/01 - Community/People/🗂️ People.md",
-    "obsidian-hub-main/01 - Community/People/Kieirra.md",
-    "obsidian-hub-main/06 - Inbox/🗂️ 06 - Inbox.md",
-    "obsidian-hub-main/04 - Guides, Workflows, & Courses/Guides/Adding plugin compatibility for themes to the Obsidian Hub.md",
-    "obsidian-hub-main/04 - Guides, Workflows, & Courses/for TTRPG.md",
-    "obsidian-hub-main/01 - Community/Contributing to the Community/Plugins seeking help.md",
-    "obsidian-hub-main/01 - Community/Contributing to the Community/Volunteer Plugin Doc Writers.md",
-    "民法/合同.md",
-    "看网课/Untitled.md",
-    "看网课/Untitled 1.md",
-    "课程笔记/Untitled阿瑟大.md",
-    "课程笔记/笔记模版.md",
-    "看网课/mx-img-uim1drfivoxnl312s1aavrad-pt1m33_66s.png",
-    "看网课/mx-img-uim1drfivoxnl312s1aavrad-pt2m4_03s.png",
-    "看网课/mx-img-uim1drfivoxnl312s1aavrad-pt1m7_74s.png",
-    "看网课/mx-img-uim1drfivoxnl312s1aavrad-pt1m34_35s.png",
-    "看网课/未命名 1.md",
-    "看网课/未命名.md",
-    "看网课/-video-screenshots-without-notes.base",
-    "看网课/-video-screenshots.base",
-    "obsidian-hub-main/03 - Showcases & Templates/Templates/Plugin-specific templates/Templater templates",
-    "obsidian-hub-main/03 - Showcases & Templates/Templates/Plugin-specific templates/Dataview templates",
-    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/Unlisted",
-    "obsidian-hub-main/03 - Showcases & Templates/Templates/Yearly notes",
-    "obsidian-hub-main/03 - Showcases & Templates/Templates/Weekly notes",
-    "obsidian-hub-main/03 - Showcases & Templates/Templates/Projects",
-    "obsidian-hub-main/03 - Showcases & Templates/Templates/TTRPG notes",
-    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/vscode-regex-find-replace.png",
-    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/VSCode Guide - Toggle Wrapping.gif",
-    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/VSCode Guide - Search.gif",
-    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/VSCode Guide - Rename Symbol.gif",
-    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/VSCode Guide - Quick File Navigation.gif",
+    "日记/2026-02-20.md",
+    "grok/民法",
+    "grok/刑法/法人.md",
+    "grok/刑法/缓刑减刑.md",
+    "提示词.md",
+    "日记/2026-02-19.md",
+    "日记/2026-02-17.md",
+    "日记/2026-02-16.md",
+    "日记/2026-02-18.md",
+    "日记统计表.md",
+    "grok",
+    "日记/2026-02-14.md",
+    "日记/2026-02-13.md",
+    "日记/2026-02-06.md",
+    "日记/2026-02-08.md",
+    "日记/2026-02-15.md",
+    "日记/2026-02-12.md",
+    "日记/2026-02-11.md",
+    "日记/2026-02-10.md",
+    "日记/2026-02-09.md",
+    "日记/2026-02-07.md",
+    "指标笔记",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202112155386.png",
+    "看网课/hover-notes-images/screenshot-01KFW1MSY03EZEHZRV5XAHWSN0.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202112155349.png",
+    "看网课/hover-notes-images/看网课/Untitled 2",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202110910711.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202110910738.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202110910683.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202110910655.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202110910630.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202110910595.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文/IMG-20260202110910529.png",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论一作文",
+    "看网课/hover-notes-images/看网课/2025年广东省考申论二作文",
+    "看网课/hover-notes-images/看网课",
+    "看网课/hover-notes-images/看网课/2",
+    "看网课/BJ/hover-notes-images",
     "未命名.canvas"
   ]
 }
