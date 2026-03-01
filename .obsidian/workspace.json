@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "日记统计表.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -36,10 +36,36 @@
           {
             "id": "25deffc4094b1bd9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-02-26.md",
+                "file": "提示词.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "提示词"
+            }
+          },
+          {
+            "id": "c88da2dd785dc5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-02-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +80,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-26"
+              "title": "2026-02-27"
+            }
+          },
+          {
+            "id": "71cdddb6e8b6e368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grok/民法/技术合同.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "技术合同"
+            }
+          },
+          {
+            "id": "042b65fff5ae8ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "modal"
+            }
+          },
+          {
+            "id": "49f5b4f7c3849be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-03-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-01"
+            }
+          },
+          {
+            "id": "5ff6b91c97fcc57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grok/民法/技术合同.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "技术合同"
+            }
+          },
+          {
+            "id": "104bdaab7682ab56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-01-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-05"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -90,7 +236,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "网络",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,32 +376,32 @@
   },
   "active": "65f22b48b420823a",
   "lastOpenFiles": [
-    "日记/2026-02-25.md",
-    "日记/2026-02-26.md",
-    "日记/2026-02-24.md",
+    "grok/刑法/扰乱市场秩序罪.md",
+    "日记/2026-02-27.md",
+    "日记/2026-01-05.md",
+    "grok/民法/技术合同.md",
+    "日记/2026-01-04.md",
+    "日记/2026-01-03.md",
+    "日记/2026-01-02.md",
+    "日记/2026-01-01.md",
+    "提示词.md",
+    "日记/2026-03-01.md",
+    "2025大事记.md",
+    "记忆方法.md",
     "日记统计表.md",
+    "随记.md",
+    "modal.md",
+    "日记/2026-02-28.md",
+    "grok/民法/货运合同.md",
+    "日记/2026-02-26.md",
+    "日记/2026-02-25.md",
+    "日记/2026-02-24.md",
     "grok/刑法/危害公共卫生罪.md",
     "grok/民法/不动产登记体系.md",
     "刑法/罪数形态/罪数形态.md",
     "宪法/公民的基本权利与义务/公民的基本权利与义务.md",
     "刑法/故意犯罪的停止形态/故意犯罪的停止形态.md",
     "民法2/继承/继承.md",
-    "刑法/刑事责任/未成年.md",
-    "民法2/担保物权/留置权.md",
-    "刑法/侵犯财产罪/抢劫罪.md",
-    "刑法/渎职罪/挪用.md",
-    "刑法/危害公共安全罪/危害公共安全罪.md",
-    "民法2/自然人/自然人.md",
-    "刑法/刑罚执行制度/刑罚种类.md",
-    "刑法/破坏社会主义市场经济秩序罪/扰乱市场秩序罪.md",
-    "grok/刑法/法人.md",
-    "grok/刑法/附加刑体系.md",
-    "日记/2026-02-23.md",
-    "提示词.md",
-    "grok/刑法/制作、贩卖、传播淫秽物品罪.md",
-    "grok/刑法/组织、强迫、引诱、容留、介绍卖淫罪.md",
-    "grok/民法/合同保全.md",
-    "grok/民法/地役权.md",
     "grok/刑法",
     "grok/民法",
     "grok",
